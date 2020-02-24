@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Empirical studies in HCI on Mengchen Yang</title>
+    <link>/tags/empirical-studies-in-hci.html</link>
+    <description>Recent content in Empirical studies in HCI on Mengchen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/empirical-studies-in-hci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CovArchives</title>
+      <link>/posts/coronavirus.html</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/coronavirus.html</guid>
+      <description>Background The recent outbreak of Coronavirus in China has all the Chinese people in home. Instead of celebrating lunar new year in a traditional way with familier and friends, people are grounded at home and banned all travels out side their city. Millions of People change the focus to the social media platform, mainly Weibo, to exchange information about the Coronavirus, to post their view of government respones to the crisis and to record their life.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media on Mengchen Yang</title>
+    <link>/tags/social-media.html</link>
+    <description>Recent content in Social Media on Mengchen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CovArchives</title>
+      <link>/posts/coronavirus.html</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/coronavirus.html</guid>
+      <description>Background The recent outbreak of Coronavirus in China has all the Chinese people in home. Instead of celebrating lunar new year in a traditional way with familier and friends, people are grounded at home and banned all travels out side their city. Millions of People change the focus to the social media platform, mainly Weibo, to exchange information about the Coronavirus, to post their view of government respones to the crisis and to record their life.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Entry Point</title>
+      <link>/posts/social-media-entry-point.html</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/social-media-entry-point.html</guid>
+      <description>Introduction Scholars tweets about their new paper published or what their research accomplished all the time. Through this Social Media Entry Point project, We would like to find out what exactly people tweet about scientific paper, how people respond to those tweets, what useful information we could extract from those tweets. By identifying entry point features of tweets, we want to Correlate those features with potential impacts on the scientific paper.</description>
+    </item>
+    
+  </channel>
+</rss>

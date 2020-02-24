@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta name="author" content="Mengchen Yang">
+		<meta name="description" content="Mengchen">
+		<meta name="generator" content="Hugo 0.60.1" />
+		<title>Social Media Entry Point &middot; Mengchen Yang</title>
+		<link rel="shortcut icon" href="../images/favicon.ico">
+		<link rel="stylesheet" href="../css/style.css">
+		<link rel="stylesheet" href="../css/highlight.css">
+
+		
+		<link rel="stylesheet" href="../css/font-awesome.min.css">
+		
+
+		
+
+		
+	</head>
+
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='../'> <span class="arrow">←</span>Home</a>
+	
+	<a href='../posts'>Archive</a>
+	<a href='../tags'>Tags</a>
+	<a href='../about'>About</a>
+
+	
+
+	
+</nav>
+
+
+        <section id="wrapper" class="post">
+            <article>
+                <header>
+                    <h1>
+                        Social Media Entry Point
+                    </h1>
+                    <h2 class="headline">
+                    Sep 30, 2019 00:00
+                    · 532 words
+                    · 3 minute read
+                      <span class="tags">
+                      
+                      
+                          
+                              <a href="../tags/hci-research">HCI Research</a>
+                          
+                              <a href="../tags/social-media">Social Media</a>
+                          
+                      
+                      
+                      </span>
+                    </h2>
+                </header>
+                
+                  
+                    <div id="toc">
+                      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#how-we-conduct-the-research">How we conduct the research</a></li>
+    <li><a href="#our-findings-by-now">Our findings by now</a></li>
+    <li><a href="#next-step">Next Step</a></li>
+    <li><a href="#my-role">My Role</a></li>
+  </ul>
+</nav>
+                    </div>
+                  
+                
+                <section id="post-body">
+                    <h2 id="introduction"><strong>Introduction</strong></h2>
+<p>Scholars tweets about their new paper published or what their research accomplished all the time. Through this Social Media Entry Point project, We would like to find out what exactly people tweet about scientific paper, how people respond to those tweets,  what useful information we could extract from those tweets. By identifying entry point features of tweets, we want to Correlate those features with potential impacts on the scientific paper.</p>
+<p><strong>Project Duration</strong>: 2019/09 - Present</p>
+<p><strong>Project Supervisor</strong>: Professor <a href="http://joelchan.me/">Joel Chan</a> @iSchool, University of Maryland</p>
+<h2 id="how-we-conduct-the-research"><strong>How we conduct the research</strong></h2>
+<p>First we used Keyword below  to query on the Twitter, filtering the tweets that have scientific contents such as publication of new paper.</p>
+<table>
+<thead>
+<tr>
+<th>Key Word</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New Paper</td>
+</tr>
+<tr>
+<td>Our Paper</td>
+</tr>
+<tr>
+<td>Our Reasearch</td>
+</tr>
+<tr>
+<td>New Research</td>
+</tr>
+<tr>
+<td>Our Findings</td>
+</tr>
+<tr>
+<td>My paper</td>
+</tr>
+</tbody>
+</table>
+<p>Having asked a few questions what kind of tweets we are exactly looking for, and literature reviewing papers in the field, 7 features was selected that we believe could be related to social media entry point.</p>
+<table>
+<thead>
+<tr>
+<th>Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>URL of paper</td>
+</tr>
+<tr>
+<td>Include graph/figure?</td>
+</tr>
+<tr>
+<td>Summarize problem/Question?</td>
+</tr>
+<tr>
+<td>Summarize Result/Conclusion/Contribution?</td>
+</tr>
+<tr>
+<td>Threaded?</td>
+</tr>
+<tr>
+<td>Has replies from others</td>
+</tr>
+<tr>
+<td>From original author</td>
+</tr>
+</tbody>
+</table>
+<p>Next I collected around 300 tweets regareding to those features, and quantifyied those data to build a prototype database.</p>
+<p>(Below are 3 sample entries.)</p>
+<table>
+<thead>
+<tr>
+<th>search term / approach</th>
+<th>link</th>
+<th>text of &ldquo;head&rdquo; tweet</th>
+<th>url of paper</th>
+<th>include graph/figure?</th>
+<th>summarize problem/question?</th>
+<th>summarize result/conclusion/contribution?</th>
+<th>threaded?</th>
+<th>has replies from others</th>
+<th>from original author</th>
+<th>other observations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New Paper</td>
+<td><a href="https://twitter.com/EJohnWherry/status/1182004777510531074">https://twitter.com/EJohnWherry/status/1182004777510531074</a></td>
+<td>Zeyu Chen's new paper in Immunity identifies early precursors of Exhausted T cells and identifies underlying molecular circuitry. Helps clarify the developmental trajectories of Tex and relationship of Tex Precursors, Progenitor and terminal Tex subsets.</td>
+<td>https://t.co/06V8UvfjCP?amp=1</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>some cool discussion on the methods in the comments</td>
+</tr>
+<tr>
+<td>New Paper</td>
+<td><a href="https://twitter.com/jpjhall/status/1184437346399408128">https://twitter.com/jpjhall/status/1184437346399408128</a></td>
+<td>New paper: plasmid costs can be ameliorated during the process of transconjugant colony growth.</td>
+<td>None</td>
+<td>2</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>also discusses implications + meta discussion about methods</td>
+</tr>
+<tr>
+<td>New Paper</td>
+<td><a href="https://twitter.com/BrockhurstLab/status/1184423614281637888">https://twitter.com/BrockhurstLab/status/1184423614281637888</a></td>
+<td>How fast?! Very very fast! Compensatory evolution to ameliorate plasmid fitness cost within hours (with movies) by 3 diverse mechanisms Exciting work led by ⁦</td>
+<td>None</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>tags the original authors</td>
+</tr>
+</tbody>
+</table>
+<h2 id="our-findings-by-now"><strong>Our findings by now</strong></h2>
+<ol>
+<li>
+<p>Most Tweets don’t have many replies, among those received replies, some are congrats;</p>
+</li>
+<li>
+<p>Among the tweets have graphs, some of the graphs are the screenshots of the paper, which usually are titles/authors/abstracts.</p>
+</li>
+<li>
+<p>Some of the tweets are from the official account of the labs/Institutions/NGOs.</p>
+</li>
+<li>
+<p>Some of the tweets only mentioned the paper being published and nothing about the contents of the paper.</p>
+</li>
+<li>
+<p>Most tweets mentioned at least one of the problems/solutions about the paper, a few did the both.</p>
+</li>
+<li>
+<p>For those key words such as Our research and Our finding usually contain the users’ own work.</p>
+</li>
+<li>
+<p>Comments for those Tweets are usually none or Congrats.</p>
+</li>
+</ol>
+<h2 id="next-step"><strong>Next Step</strong></h2>
+<p>Building a data pipeline through Twitter API, collecting tweets for mass data analysis.</p>
+<p>Based on the large data collected, made further examinations and conclusions, finished an academic paper.</p>
+<h2 id="my-role"><strong>My Role</strong></h2>
+<p>As one of two RAs in Professor Joel Chan’s <a href="http://joelchan.me/lab/">lab</a> working on this project. I am responsible for collecting data on Twitter and building database, and summarized findings based on the data collected.</p>
+
+                </section>
+            </article>
+
+            
+                <a class="twitter" href="https://twitter.com/intent/tweet?text=%2fposts%2fsocial-media-entry-point.html - Social%20Media%20Entry%20Point "><span class="icon-twitter"> tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+            
+
+            
+
+            
+
+            <footer id="footer">
+    
+        <div id="social">
+
+	
+	
+    <a class="symbol" href="https://www.github.com/mengchenyang">
+        <i class="fa fa-github-square"></i>
+    </a>
+    
+    <a class="symbol" href="https://www.linkedin.com/in/mengchen-yang-93533910b/">
+        <i class="fa fa-linkedin-square"></i>
+    </a>
+    
+    <a class="symbol" href="https://twitter.com/947887815">
+        <i class="fa fa-twitter-square"></i>
+    </a>
+    
+
+
+</div>
+
+    
+    <p class="small">
+    
+       © Mengchen 2020 
+    
+    </p>
+    <p class="small">
+        Powered by <a href="http://www.gohugo.io/">Hugo</a> 
+    </p>
+</footer>
+
+
+        </section>
+
+        <script src="../js/jquery-3.3.1.min.js"></script>
+<script src="../js/main.js"></script>
+<script src="../js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-155127085-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+
+
+
+    </body>
+</html>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/coronavirus.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/empirical-studies-in-hci.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags.html</loc>
+    <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hci-research.html</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/social-media-entry-point.html</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ai-applications.html</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/it-consulting.html</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/accenture.html</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/feature-engineering.html</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/kaggle-competition.html</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning.html</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression-analysis.html</loc>
+    <lastmod>2018-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about.html</loc>
+  </url>
+  
+</urlset>

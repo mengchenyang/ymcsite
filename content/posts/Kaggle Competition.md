@@ -8,8 +8,8 @@ tags = [
 ]
 date = "2018-12-12"
 categories = [
-    "Data Science",
-    "Machine Learning",
+    "",
+    "",
 ]
 menu = "main"
 
@@ -976,5 +976,5 @@ Some potential improvements:
 - Performing a more rigorous GridSearchCV
 - Exploring more complex stack models for better final prediction.
 
-##### Thank you for reading!
+Thank you for reading!
 

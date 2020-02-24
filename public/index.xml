@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mengchen Yang</title>
+    <link>/</link>
+    <description>Recent content on Mengchen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CovArchives</title>
+      <link>/posts/coronavirus.html</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/coronavirus.html</guid>
+      <description>Background The recent outbreak of Coronavirus in China has all the Chinese people in home. Instead of celebrating lunar new year in a traditional way with familier and friends, people are grounded at home and banned all travels out side their city. Millions of People change the focus to the social media platform, mainly Weibo, to exchange information about the Coronavirus, to post their view of government respones to the crisis and to record their life.</description>
+    </item>
+    
+    <item>
+      <title>Social Media Entry Point</title>
+      <link>/posts/social-media-entry-point.html</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/social-media-entry-point.html</guid>
+      <description>Introduction Scholars tweets about their new paper published or what their research accomplished all the time. Through this Social Media Entry Point project, We would like to find out what exactly people tweet about scientific paper, how people respond to those tweets, what useful information we could extract from those tweets. By identifying entry point features of tweets, we want to Correlate those features with potential impacts on the scientific paper.</description>
+    </item>
+    
+    <item>
+      <title>Mengchen&#39;s IT Project at Accenture</title>
+      <link>/posts/accenture.html</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/accenture.html</guid>
+      <description>Background Upon the graduation from Binghamton University in December 2018, I came back to China and joined Accenture&#39;s IT consulting Service in Beijing. Processing academic experiences in management information system, I looked forward to sovle some real world issues with the help of emerging technologies.
+I worked on a team that provides human-centered automation solutions such as Robotic Process Automation to big companies. As a junior analyst, I am responsbible for the analysis of the business requirements and design feasible improvement and implementation plans.</description>
+    </item>
+    
+    <item>
+      <title>House Prices: Advanced Regression Techniques</title>
+      <link>/posts/kaggle-competition.html</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/kaggle-competition.html</guid>
+      <description>Mengchen&#39;s Kaggle Competition In this Kaggle Competition: &amp;lsquo;House Prices: Advanced Regression Techniques&amp;rsquo;. This competition uses a Housing Dataset, which contains 1460 observations in both training and tests sets, and explanatory variables. The goal is to predict property Sale Price, hence this is a Regression problem.
+My main focus was mainly ondata preparation, feature engineering and the building of a stacking model.
+At the time of posting, this model achieved a score of 0.</description>
+    </item>
+    
+  </channel>
+</rss>

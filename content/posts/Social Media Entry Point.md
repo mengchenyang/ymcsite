@@ -2,12 +2,12 @@
 title = "Social Media Entry Point"
 description = "Learn about Mengchen's ongoing HCI research that explores the potential impact of posting scientific paper on Twitter."
 tags = [
-    "HCI Research",
+    "HCI Research","Social Media"
 ]
 date = "2019-09-30"
 categories = [
-    "Data Science",
-    "Machine Learning",
+    "",
+    "",
 ]
 menu = "main"
 
@@ -79,5 +79,5 @@ Based on the large data collected, made further examinations and conclusions, fi
 
 ## **My Role**
 
-As one of two RAs in Professor Joel Chan’s [lab](http://joelchan.me/lab/) working on this project. I am responsible for the building of Prototype database, and summarized findings based on the data collected.
+As one of two RAs in Professor Joel Chan’s [lab](http://joelchan.me/lab/) working on this project. I am responsible for collecting data on Twitter and building database, and summarized findings based on the data collected.
 

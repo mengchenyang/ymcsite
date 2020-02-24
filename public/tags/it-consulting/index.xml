@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT Consulting on Mengchen Yang</title>
+    <link>/tags/it-consulting.html</link>
+    <description>Recent content in IT Consulting on Mengchen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/it-consulting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mengchen&#39;s IT Project at Accenture</title>
+      <link>/posts/accenture.html</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/accenture.html</guid>
+      <description>Background Upon the graduation from Binghamton University in December 2018, I came back to China and joined Accenture&#39;s IT consulting Service in Beijing. Processing academic experiences in management information system, I looked forward to sovle some real world issues with the help of emerging technologies.
+I worked on a team that provides human-centered automation solutions such as Robotic Process Automation to big companies. As a junior analyst, I am responsbible for the analysis of the business requirements and design feasible improvement and implementation plans.</description>
+    </item>
+    
+  </channel>
+</rss>

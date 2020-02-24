@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mengchen Yang</title>
+    <link>/tags.html</link>
+    <description>Recent content in Tags on Mengchen Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical studies in HCI</title>
+      <link>/tags/empirical-studies-in-hci.html</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/empirical-studies-in-hci.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>/tags/social-media.html</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/social-media.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI Research</title>
+      <link>/tags/hci-research.html</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hci-research.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Applications</title>
+      <link>/tags/ai-applications.html</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ai-applications.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Consulting</title>
+      <link>/tags/it-consulting.html</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/it-consulting.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering</title>
+      <link>/tags/feature-engineering.html</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feature-engineering.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning.html</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression Analysis</title>
+      <link>/tags/regression-analysis.html</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regression-analysis.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
